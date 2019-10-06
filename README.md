@@ -1,1 +1,1 @@
-# akryvanych-github.io
+# akryvanych.github.io

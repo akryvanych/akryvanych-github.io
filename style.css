@@ -696,6 +696,8 @@ input, textarea {
         text-align: center;
         background-color: rgba(229, 229, 229, 0.9);
         border: 3px solid #111;
+        transform: skewY(-2.3deg);
+        margin-top: 25px;
     }
     .nav-link {
         width: 100%;

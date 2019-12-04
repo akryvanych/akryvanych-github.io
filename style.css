@@ -567,7 +567,7 @@ input, textarea {
     color: #111;
     font-weight: 800;
     padding: 8px;
-    height: max-content;
+    height: 100px;
     width: 99%;
     border-color: #111;
     outline: none;
